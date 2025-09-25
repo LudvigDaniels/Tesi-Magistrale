@@ -1,0 +1,3 @@
+Aggiungi tutti i file a una stessa cartella e seleziona quest'ultima nella colonna Files (a sx) di matlab. 
+Una volta fatto fai partire lo script nel file "main", cioè guided_quantile_lasso_simulation. 
+Il programma dovrebbe leggere in automatico le funzioni presenti nei tre file.
